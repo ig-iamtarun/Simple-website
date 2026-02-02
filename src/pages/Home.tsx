@@ -1,6 +1,6 @@
-import React from 'react'
+
 import { Link } from 'react-router-dom'
-import About from './About'
+
 const Home = () => {
   return (
    <div className="flex flex-col items-center text-center mt-24 px-4">
